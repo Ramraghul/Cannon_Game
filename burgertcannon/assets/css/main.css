@@ -1,0 +1,33 @@
+.center {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+#cannon
+    {
+      position: absolute;
+      top: 580px;
+      left: -60px;
+      height: 200px;
+    }
+
+
+#cannonBall
+{
+    position: absolute;
+    top: 645px;
+    left: 0;
+    height: 50px;
+
+}
+
+
+.burger
+{
+  position: absolute;
+
+  height: 50px
+}
